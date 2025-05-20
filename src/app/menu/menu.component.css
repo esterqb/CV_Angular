@@ -1,0 +1,14 @@
+mat-toolbar, span>a{
+  background-color: #754c62;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+nav>a{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  margin-left: 40px;
+}
+nav>a:hover{
+  color: #fcd5b5;
+}
